@@ -1,0 +1,140 @@
+.Adelhyde:checked~.to-be-changed {
+    background-color: purple;
+    color: purple;
+}
+
+.Bronson:checked~.to-be-changed {
+    background-color: purple;
+    color: purple;
+}
+
+.Delta:checked~.to-be-changed {
+    background-color: purple;
+    color: purple;
+}
+
+.Flanergide:checked~.to-be-changed {
+    background-color: purple;
+    color: purple;
+}
+
+.Karmotrine:checked~.to-be-changed {
+    background-color: purple;
+    color: purple;
+}
+
+input[type="reset"] {
+    line-height: normal;
+    border: 1px solid #FFF;
+    background-color: black;
+    color: white;
+}
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    border: 1px solid #ddd;
+}
+
+.list {
+    width: 60%;
+    margin: auto;
+}
+
+.list h2,
+h3 {
+    margin-left: 15px;
+}
+
+.background {
+    background-color: black;
+    border-bottom: 50px solid #171717;
+}
+
+.centered {
+    background-image: url(ending.jpg);
+    height: 60vh;
+    width: 70vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-box {
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    background-color: #171717;
+}
+
+.flexbox {
+    display: flex;
+}
+
+.collapse {
+    padding-left: 10px;
+    cursor: pointer;
+    display: block;
+}
+
+.collapse+input {
+    display: none;
+    /* hide the checkboxes */
+}
+
+.collapse+input+div {
+    display: none;
+}
+
+.collapse+input:checked+div {
+    display: block;
+}
+
+.drink {
+    margin-bottom: 5em;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid white;
+}
+
+td,
+tr {
+    font-size: 18pt;
+}
+.purple-border-5{
+    border: 5px solid purple;
+}
+.purple-border-1{
+    border: 1px solid purple;
+}
+.full-height{
+    height: 100%;
+}
+.hide-checkbox{
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+}
+.to-be-changed{
+    height: 90%;
+    width: 25px;
+}
+.row-height-align{
+    height: 40%;
+    text-align: center;
+}
+.height-180{
+    height: 180px;
+}

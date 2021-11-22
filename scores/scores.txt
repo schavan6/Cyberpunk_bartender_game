@@ -1,0 +1,7 @@
+Test1;200
+Steven;530
+Bob;330
+Rex;0
+Van;210
+Test2;290
+Roland;0

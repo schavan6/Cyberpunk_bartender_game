@@ -1,0 +1,26 @@
+.main-content{
+	width: 45%;
+  	height: 483px; 
+	border-radius: 20px;
+    margin: 5em auto;
+    display: flex;
+}
+
+.login_form{
+	background-color: black;
+	border-top-right-radius:20px;
+	border-bottom-right-radius:20px;
+	border-top:1px solid #ccc;
+	border-right:1px solid #ccc;
+  	border-bottom:1px solid #ccc;
+}
+
+img{
+    float: left;
+    border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+
+h1{
+    color: #ff00a0;
+}

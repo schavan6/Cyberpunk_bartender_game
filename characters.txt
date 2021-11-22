@@ -1,0 +1,20 @@
+1;Kim;Give me a big drink. I don't know... bubbly or something;Big Fringe Weaver > Cobalt Velvet > Beer > Frothy Water
+2;Kim;I'll have a Sunshine Cloud please.;Sunshine Cloud
+3;Kim;Ehhhhh... um ... g-give me a .... err.... SOMETHING SPICY!;Bloom Light > Bleeding Jane > Marsblast
+4;Streaming-chan;Give me a drink! A big one! The nastiest one you can think of! (Hint: Manly and Promo drinks are both nasty, but that's my opinion);Piano Man > Piano Woman > Bloom Light > Grizzly Temple > Zen Star
+5;Streaming-chan;Get me a Bad Touch;Bad Touch
+6;Streaming-chan;Get me drunk, I don't care how you do it... just do it.;Fringe Weaver > Cobalt Velvet.
+7;KiraMiki;I don't usually go to bars. Could I get something bitter, but not too bitter?" (Hint: Something like tea, or something not so bitter. Maybe, girly and bitter?);Sunshine Cloud > Grizzly Temple > Pile Driver > Gut Punch
+8;KiraMiki;Do you have anything... soft? Hmmmm... soft...like soft. (Hint: Something alcohol free? Perhaps Sweet or Girly);Blue Fairy > Sunshine Cloud > Fluffy Dream > Sugar Rush
+9;KiraMiki;Do you have anything bitter? I really need to wake myself up. I'm about to do a concert that goes from night to dawn.It'll be worth it though. If I timed it right, the s̲u̲n̲ should come up just as I reach the climax of the song.;Sunshine Cloud > Suplex > Gut Punch
+10;Sei;Let's see... I'm in the mood for a sweet drink. Something cool but not too big.;Moonblast
+11;Sei;Something classy, a classy drink. Don't make it too big though.;Cobalt Velvet
+12;Sei;I've got a bit of headache... how about something sweet without any alcohol?;Blue Fairy > Sugar Rush > Sparkle Star
+13;Sei;Get me something cold please. (Hint: Must have ice);Piano Man
+14;Sei;Could you get me something classy?;Cobalt Velvet
+15;Mario;A...Piano Woman..... would be nice..... *ahem* I'll have a Marsblast;Piano Woman > Marsblast
+16;Mario;A moonblast would be nice... EEEEEHHHH GUT PUNCH. Yeah, that... one.;Moonblast > Gut Punch
+17;Mario;Maybe I should just order what I want. Can you get me a Fringe Weaver?;Fringe Weaver
+18;Rad Shiba;Hey, hey, Got any red drinks?;Marsblast
+19;Rad Shiba;How about something Manly this time?;Crevice Spike
+20;Rad Shiba;I'll have a Grizzly Temple.;Crevice Spike
